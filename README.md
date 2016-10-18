@@ -1,1 +1,3 @@
 # buildHouse
+
+init repo first
