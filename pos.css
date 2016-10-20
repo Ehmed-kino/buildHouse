@@ -8,9 +8,6 @@ body {
   /*border:1px white solid;*/
   float:left;
 }
-marquee {
-  position: relative;
-}
 
 .building1 {
 height:400px;
